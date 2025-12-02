@@ -54,7 +54,7 @@ $cookieValue = "Ngoc Anh";
 $expirationTime = time()+3600;
 $secureOnly = true;
 
-setcookie($cookieName, $cookieValue, $expirationTime,"/","",$secureOnly,true);
+setcookie($cookieName, $cookieValue, $expirationTime,"/","",$secureOnly,true;
 echo "Secure cookie 'username' has been set!";
 ?>
 //EX8:
